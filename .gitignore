@@ -1,0 +1,11 @@
+
+venv
+
+spacy_test
+/.idea/misc.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/learn-mojo.iml
+/.idea/vcs.xml
+/.idea/.gitignore
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
